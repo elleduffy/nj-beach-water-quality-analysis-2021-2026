@@ -43,16 +43,6 @@ The workflow included:
 
 ---
 
-## Repository Structure
-
-├── beach_water_quality_analysis.R
-├── data/
-├── figures/
-├── manuscript/
-└── README.md
-
----
-
 ## Figures
 
 The project includes five primary figures:
