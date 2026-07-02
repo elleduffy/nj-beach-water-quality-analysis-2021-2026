@@ -1,4 +1,13 @@
-.Rproj.user
+# macOS
+.DS_Store
+
+# R
 .Rhistory
 .RData
 .Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Temporary files
+*.log
