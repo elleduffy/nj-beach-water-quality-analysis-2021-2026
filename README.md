@@ -72,6 +72,7 @@ The project includes five primary figures:
 Elle Duffy
 
 Biochemistry Major
+
 Statistics Minor
 
 Independent Summer Research Project (2026)
